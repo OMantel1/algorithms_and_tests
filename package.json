@@ -1,0 +1,15 @@
+{
+  "name": "algocode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Find_sum_of_3_numbers_result.js",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC"
+}

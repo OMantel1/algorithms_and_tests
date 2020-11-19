@@ -1,0 +1,1 @@
+//Find wich 3 numbers added equal to 30
